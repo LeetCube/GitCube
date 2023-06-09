@@ -4,22 +4,22 @@ PR title format
 [Feature / Fix] desc
 -->
 
-### 📋 Summary
+### Summary
 
 -   desc?
 
-### 🔑 Help needed
+### Help needed
 
 -   desc?
 
-### 👀 Visual
+### Preview
 
 <!-- screenshots: drag and drop it here -->
 
 <!-- if you edited any markdown file besides readme: link md file on your branch
 [file.md](url) -->
 
-### ✅ Remember to
+### Remember to
 
 -   [ ] add labels to pr
 -   [ ] tag reviewers
