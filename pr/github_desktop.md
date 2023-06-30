@@ -22,3 +22,9 @@
 
     - The changed files are displayed on the left. Click on each file to view the changes.
     - You can choose which files to commit by checking the boxes to the left of each file.
+
+4. Push your changes. The first time you push, you'll first have to publish the branch.
+
+    ![](figs_github_desktop/05_publish_branch.png)
+
+    For future pushes, click **Push origin** to push your changes.
