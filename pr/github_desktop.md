@@ -28,3 +28,11 @@
     ![](figs_github_desktop/05_publish_branch.png)
 
     For future pushes, click **Push origin** to push your changes.
+
+    ![](figs_github_desktop/06_push_origin.png)
+
+5. Now you can open a pull request on GitHub. You can either do it on the GitHub website, or by opening one in GitHub Desktop.
+
+    Go to **Branch** &rarr; **Create pull request**.
+
+    ![](figs_github_desktop/07_create_pr.png)
