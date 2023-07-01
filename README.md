@@ -7,7 +7,7 @@ Everyone is welcome to contribute their knowledge of Git, GitHub, editors and cl
 ### Using
 
 -   [x] [VSCode](pr/vsc.md)
--   [ ] GitHub Desktop
+-   [x] [GitHub Desktop](pr/github_desktop.md)
 -   [ ] cli
 
 ### Learn about
