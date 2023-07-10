@@ -11,6 +11,7 @@ PR title format:
 ### 🧠 Remember to
 
 <!-- -   [ ] include tests -->
+
 -   [ ] add labels to pr
 -   [ ] tag reviewers
 -   [ ] **after** squash merge, [reset your branch](https://github.com/LeetCube/GitCube/blob/main/pr/vsc.md#:~:text=fix%20commits%20ahead%20of%20main)

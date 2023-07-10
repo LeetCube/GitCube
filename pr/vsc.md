@@ -2,8 +2,8 @@
 
 **abbreviations**
 
-- pull request: PR
-- VSCode: vsc
+-   pull request: PR
+-   VSCode: vsc
 
 ## Steps
 
@@ -11,55 +11,55 @@
 
 1. in vsc, sign in GitHub
 
-   ![](figs/vsc/01_signin.png)
+    ![](figs/vsc/01_signin.png)
 
 2. click **clone repo** in welcome page
 
-   ![](figs/vsc/02_clone.png)
+    ![](figs/vsc/02_clone.png)
 
 3. select your repo, here we use GitCube
 
-   ![](figs/vsc/03_select_repo.png)
+    ![](figs/vsc/03_select_repo.png)
 
 4. create new branch
 
-   ![](figs/vsc/04_create_new_branch.png)
+    ![](figs/vsc/04_create_new_branch.png)
 
-   - on bottom left of vsc, you can see we are on `main`
-   - click on branch button, select **create new branch from**
+    - on bottom left of vsc, you can see we are on `main`
+    - click on branch button, select **create new branch from**
 
 5. select from `origin/main`, now branch button should show your branch
 
-   ![](figs/vsc/05_from_origin_main.png)
+    ![](figs/vsc/05_from_origin_main.png)
 
 6. add
 
-   ![](figs/vsc/06_git_changes.png)
+    ![](figs/vsc/06_git_changes.png)
 
-   - after doing changes, you can see them in git pane
-   - hover to **Changes**, click ➕ button, this is `git add` all
-   - can also hover on individual file, ➕ and ➖ to toggle between **Changes** and **Staged Changes**
+    - after doing changes, you can see them in git pane
+    - hover to **Changes**, click ➕ button, this is `git add` all
+    - can also hover on individual file, ➕ and ➖ to toggle between **Changes** and **Staged Changes**
 
 7. commit
 
-   ![](figs/vsc/07_git_add.png)
+    ![](figs/vsc/07_git_add.png)
 
-   - click **Commit** ✅ will `git commit` **Staged Changes**
-   - files in **Changes** won't be in commit
+    - click **Commit** ✅ will `git commit` **Staged Changes**
+    - files in **Changes** won't be in commit
 
 8. write a short commit message, then click **Commit**
 
-   ![](figs/vsc/08_git_commit.png)
+    ![](figs/vsc/08_git_commit.png)
 
 9. push
 
-   - the 1st time you push, you'll see **Publish Branch**
+    - the 1st time you push, you'll see **Publish Branch**
 
-     ![](figs/vsc/09_publish_branch.png)
+        ![](figs/vsc/09_publish_branch.png)
 
-   - after the 1st time, you'll click `...`, select **Push**
+    - after the 1st time, you'll click `...`, select **Push**
 
-     ![](figs/vsc/09_push.png)
+        ![](figs/vsc/09_push.png)
 
 10. go to GitHub, now you can do a PR, select **Compare & pull request**
 
