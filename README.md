@@ -6,9 +6,9 @@ Everyone is welcome to contribute their knowledge of Git, GitHub, editors and cl
 
 ### Using
 
--   [x] [VSCode](pr/vsc.md)
--   [x] [GitHub Desktop](pr/github_desktop.md)
--   [ ] cli
+-   [VSCode](pr/vsc.md)
+-   [GitHub Desktop](pr/github_desktop.md)
+-   cli
 
 ### Learn about
 
@@ -22,8 +22,7 @@ Everyone is welcome to contribute their knowledge of Git, GitHub, editors and cl
 
 ### Using
 
--   [x] [VSCode](codespaces/vsc.md)
--   [ ] IntelliJ + JetBrains Gateway
+-   [VSCode](codespaces/vsc.md)
 
 ### Learn about
 

@@ -2,9 +2,8 @@
 
 **abbreviations**
 
-- pull request: pr
+- pull request: PR
 - VSCode: vsc
-- GitHub: gh
 
 ## Steps
 
@@ -62,11 +61,11 @@
 
      ![](figs/vsc/09_push.png)
 
-10. go to gh, now you can do a pr, select **Compare & pull request**
+10. go to GitHub, now you can do a PR, select **Compare & pull request**
 
     ![](figs/vsc/10_open_pr.png)
 
-11. write a pr desc, then click **Create pull request**
+11. write a PR desc, then click **Create pull request**
 
     ![](figs/vsc/11_pr_desc.png)
 
@@ -82,14 +81,14 @@
 
     ![](figs/vsc/13_merged.png)
 
-    - now pr is merged, don't click delete
+    - now PR is merged, don't click delete
     - we'll cover this topic in the future: **Delete branch** is for feature branches
 
-14. on gh main page, you can see pr `#`
+14. on GitHub main page, you can see PR `#`
 
     ![](figs/vsc/14_main_updated.png)
 
-15. on gh branches page, we need to fix commits ahead of main
+15. on GitHub branches page, we need to fix commits ahead of main
 
     ![](figs/vsc/15_ahead.png)
 
@@ -113,10 +112,10 @@ git reset --hard main
 git push --force-with-lease
 ```
 
-confirm your branch is correct by checking pr `#`
+confirm your branch is correct by checking PR `#`
 
-19. on gh branches page, you should see your branch and `main` are the same
+19. on GitHub branches page, you should see your branch and `main` are the same
 
 ![](figs/vsc/19_synced.png)
 
-## Now you've opened your 1st pr!
+## Now you've opened your 1st PR!
