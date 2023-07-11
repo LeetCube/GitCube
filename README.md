@@ -2,6 +2,31 @@
 
 Everyone is welcome to contribute their knowledge of Git, GitHub, editors and cloud dev environments.
 
+## Contributors
+
+[Contributors](doc/contributors/contributors.md)
+
+<details>
+<summary>Instructions for contributing</summary>
+
+### How to set up and update
+
+```shell
+bash tools/setup.sh
+```
+
+[Detailed set up and update doc](doc/setup.md)
+
+### How to format the code
+
+```shell
+bash tools/format.sh
+```
+
+[Detailed formatting doc](doc/format.md)
+
+</details>
+
 ## Pull request
 
 ### Using
