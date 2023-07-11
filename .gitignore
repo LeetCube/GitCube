@@ -1,5 +1,11 @@
 .DS_Store
 
+# !!! Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
 # !!! node
 # Logs
 logs
@@ -121,6 +127,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# VSCode settings
+.vscode/
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test

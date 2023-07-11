@@ -2,13 +2,38 @@
 
 Everyone is welcome to contribute their knowledge of Git, GitHub, editors and cloud dev environments.
 
+## Contributors
+
+[Contributors](doc/contributors/contributors.md)
+
+<details>
+<summary>Instructions for contributing</summary>
+
+### How to set up and update
+
+```shell
+bash tools/setup.sh
+```
+
+[Detailed set up and update doc](doc/setup.md)
+
+### How to format the code
+
+```shell
+bash tools/format.sh
+```
+
+[Detailed formatting doc](doc/format.md)
+
+</details>
+
 ## Pull request
 
 ### Using
 
--   [x] [VSCode](pr/vsc.md)
--   [x] [GitHub Desktop](pr/github_desktop.md)
--   [ ] cli
+-   [VSCode](pr/vsc.md)
+-   [GitHub Desktop](pr/github_desktop.md)
+-   cli
 
 ### Learn about
 
@@ -22,8 +47,7 @@ Everyone is welcome to contribute their knowledge of Git, GitHub, editors and cl
 
 ### Using
 
--   [x] [VSCode](codespaces/vsc.md)
--   [ ] IntelliJ + JetBrains Gateway
+-   [VSCode](codespaces/vsc.md)
 
 ### Learn about
 
